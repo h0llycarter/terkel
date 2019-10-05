@@ -46,7 +46,7 @@ import team25core.RobotEvent;
 import team25core.TankDriveTask;
 import team25core.TwoWheelDirectDrivetrain;
 
-@Autonomous(name = "DeadReckonExample")
+@Autonomous(name = "Random Change")
 @Disabled
 public class DeadReckonExample extends Robot {
 
